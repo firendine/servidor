@@ -1,0 +1,3 @@
+pepe;pepito;avatar-1.png
+juan;juanito;avatar-2.png
+pedro;pedrito;avatar-3.png

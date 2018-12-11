@@ -1,0 +1,19 @@
+
+.contenedor{
+    height: 100px;
+    width: 800px;
+}
+
+
+.opMenuHor{
+    float: left;
+    width: 100px;
+    height: 50px;
+}
+
+.opMenuVer{
+    width: 100px;
+    height: 50px;
+    display: block;
+    bottom: 0px;
+}
